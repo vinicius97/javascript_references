@@ -3,6 +3,8 @@ This is a repository with Javascript articles references
 
 # Node JS
 
+Top 15 ferramentas efetivas para Node JS  - http://findnerd.com/list/view/Top-15-Effective-Node-Js-Tools-Web-Developers-Shouldn-t-Miss/33795/1
+
 Reconhecimento facial - FaceNet https://github.com/zixia/node-facenet
 
 5 maneiras de fazer requisições http - https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
