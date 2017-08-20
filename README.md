@@ -50,3 +50,5 @@ WYSIWYG Editor - https://github.com/jaredreich/pell
 Gerando imagens com Javascript sem o Canvas API - https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad
 
 Boas práticas com Javascript - https://github.com/wearehive/project-guidelines#readme
+
+Microcontroladores de internet das coisas com Javascript - https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
