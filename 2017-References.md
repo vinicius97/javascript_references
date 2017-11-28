@@ -36,7 +36,7 @@ This is a repository with Javascript articles references
 
 - Node.js Versions Used in Commercial Projects in 2017 https://semaphoreci.com/blog/2017/11/22/nodejs-versions-used-in-commercial-projects-in-2017.html
 
-# Setembro
+# Outubro
 --------------------
 - Top 15 ferramentas efetivas para Node JS  - http://findnerd.com/list/view/Top-15-Effective-Node-Js-Tools-Web-Developers-Shouldn-t-Miss/33795/1
 
